@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MP5_2_ArashAbdollahzadeh</string>
+    <string-array name="questions">
+        <item> First </item>
+        <item> Second </item>
+    </string-array>
+</resources>

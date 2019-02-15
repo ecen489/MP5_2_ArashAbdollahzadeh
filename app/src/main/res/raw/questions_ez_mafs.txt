@@ -1,0 +1,9 @@
+What number comes after 9?
+a) 4    b) 8   c) 10
+Correct: c
+How many sides does a square have?
+a) 2     b) 4     c) 6
+Correct: b
+What number comes after 10?
+a) 4    b) 8   c) 11
+Correct: c
